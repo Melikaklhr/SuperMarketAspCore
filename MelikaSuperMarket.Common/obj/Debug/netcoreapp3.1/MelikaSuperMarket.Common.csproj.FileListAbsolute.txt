@@ -1,0 +1,12 @@
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.csprojAssemblyReference.cache
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.AssemblyInfoInputs.cache
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.AssemblyInfo.cs
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.csproj.CoreCompileInputs.cache
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\bin\Debug\netcoreapp3.1\MelikaSuperMarket.Common.deps.json
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\bin\Debug\netcoreapp3.1\MelikaSuperMarket.Common.runtimeconfig.json
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\bin\Debug\netcoreapp3.1\MelikaSuperMarket.Common.runtimeconfig.dev.json
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\bin\Debug\netcoreapp3.1\MelikaSuperMarket.Common.dll
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\bin\Debug\netcoreapp3.1\MelikaSuperMarket.Common.pdb
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.dll
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.pdb
+C:\Users\MELIKAA\source\repos\MelikaSuperMarket\MelikaSuperMarket.Common\obj\Debug\netcoreapp3.1\MelikaSuperMarket.Common.genruntimeconfig.cache
